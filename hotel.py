@@ -10,3 +10,4 @@ for pessoa in range(pessoas):
         hospede = [f'{nome}, cpf:{cpf}']
         quarto.append(hospede)
 print(quarto)
+#a
